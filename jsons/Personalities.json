@@ -1,0 +1,13 @@
+
+[
+	{
+		"name": "AbsolutMonarch",
+		"military": 30,
+		"aggressive": 30,
+		"declareWar": 0,
+		"commerce": 30,
+		"diplomacy": 30,
+		"loyal": 30,
+		"expansion": 30,
+	},
+]
