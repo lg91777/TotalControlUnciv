@@ -1,4 +1,3 @@
-
 [
 	{
 		"name": "Spy Gaming",
@@ -6,20 +5,20 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": ["Automatically built in all cities where it is buildable",
-			"[6] Movement <for [All] units> <for [Human player]>",
-			"[6] Sight <for [All] units> <for [Human player]>",
-			"[6] Range <for [Ranged] units> <for [Human player]>",
+			"[6] Movement <for [All] units> <for [Human player] Civilizations>",
+			"[6] Sight <for [All] units> <for [Human player] Civilizations>",
+			"[6] Range <for [Ranged] units> <for [Human player] Civilizations>",
 		    "Limited to [1] per Civilization",
-		    "[-999999]% enemy spy effectiveness [in all cities] <for [Human player]>",
-		    "[+999999]% spy effectiveness [in all cities] <for [Human player]>",
-		    "New [Military] units start with [999999] Experience [in all cities] <for [Human player]>",
-		    "[200]% XP gained from combat <for [Military] units> <for [Human player]>",
-		    "[+3000]% Production when constructing [All] buildings [in all cities] <for [Human player]>",
-		    "[+3000]% Production when constructing [All] wonders [in all cities] <for [Human player]>",
-		    "[+3000]% Production when constructing [Civilian] units [in all cities] <for [Human player]>",
-		    "[+3000]% Production when constructing [Military] units [in all cities] <for [Human player]> <when at war>",
-		    "[+3]% [Culture] [in all cities] <for [Human player]>",
-		    "[+3]% [Food] [in all cities] <for [Human player]>",
-		    "[+100]% [Gold] [in all cities] <for [Human player]>"]
+		    "[-999999]% enemy spy effectiveness [in all cities] <for [Human player] Civilizations>",
+		    "[+999999]% spy effectiveness [in all cities] <for [Human player] Civilizations>",
+		    "New [Military] units start with [999999] Experience [in all cities] <for [Human player] Civilizations>",
+		    "[200]% XP gained from combat <for [Military] units> <for [Human player] Civilizations>",
+		    "[+3000]% Production when constructing [All] buildings [in all cities] <for [Human player] Civilizations>",
+		    "[+3000]% Production when constructing [All] wonders [in all cities] <for [Human player] Civilizations>",
+		    "[+3000]% Production when constructing [Civilian] units [in all cities] <for [Human player] Civilizations>",
+		    "[+3000]% Production when constructing [Military] units [in all cities] <for [Human player] Civilizations> <when at war>",
+		    "[+3]% [Culture] [in all cities] <for [Human player] Civilizations>",
+		    "[+3]% [Food] [in all cities] <for [Human player] Civilizations>",
+		    "[+100]% [Gold] [in all cities] <for [Human player] Civilizations>"]
 	},
 ]
